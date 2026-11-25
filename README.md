@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Shah</h1>
-<h3 align="center">A passionate 3rd Year Engineering Student from India</h3>
+<h3 align="center">A passionate 4th Year Engineering Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **krishah00009@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/136Mvu2nUb4uGEB2MBOzOakplUTVL86Q8/view?usp=drive_link](https://drive.google.com/file/d/136Mvu2nUb4uGEB2MBOzOakplUTVL86Q8/view?usp=drive_link)
+- 📄 Know about my experiences [Krish_Resume](https://drive.google.com/file/d/1k7Yeua_EMs4h7rM8lzb5EPeTUy4HuOOr/view?usp=sharing)
 
 - ⚡ Fun fact **I tend to bite my nails when I'm upset**
 
